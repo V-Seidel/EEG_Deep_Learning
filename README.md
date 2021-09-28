@@ -24,5 +24,5 @@ Módulo com duração de 4 semanas para o estudo geral e criação de uma rede C
 Módulo com duração de 4 semanas para o estudo de dados EEG e análise de dados públicos disponíveis.
 
 ### [Semana 4](https://github.com/V-Seidel/EEG_Deep_Learning/blob/main/Semana4.ipynb "Semana 4")
-&nbsp;&nbsp;&nbsp;O repositório tem como objetivo analisar os dados e as correlações entre um banco de dados de pessoas alcoólicas e não alcoólicas, promovendo um estudo inical sobre dados público e pré processamento/visualização dos mesmo.
+&nbsp;&nbsp;&nbsp;O repositório tem como objetivo analisar os dados e as correlações entre um banco de dados de pessoas alcoólicas e não alcoólicas, promovendo um estudo inical sobre dados públicos e pré processamento/visualização dos mesmos.
 
