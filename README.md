@@ -29,6 +29,6 @@ Módulo com duração de 4 semanas para o estudo de dados EEG e análise de dado
 ### [Semana 5](https://github.com/V-Seidel/EEG_Deep_Learning/blob/main/Semana5.ipynb "Semana 5")
 &nbsp;&nbsp;&nbsp;Utilização de um dataset público e criação do pré-processamento e visualização dos dados a serem trabalhados.
 
-### [Semana 4](https://github.com/V-Seidel/EEG_Deep_Learning/blob/main/Semana6.ipynb "Semana 6")
+### [Semana 6](https://github.com/V-Seidel/EEG_Deep_Learning/blob/main/Semana6.ipynb "Semana 6")
 &nbsp;&nbsp;&nbsp;Criação da rede neural e treinamento da mesma no dataset supracitado, a princípio acurácia acima de 70% para 150 épocas. Parâmetros da rede foram retirados de artigos.
 
